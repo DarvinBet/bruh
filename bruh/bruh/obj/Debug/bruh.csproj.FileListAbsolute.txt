@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\bruh\bruh\bruh\bin\Debug\bruh.exe.config
+C:\Users\admin\Documents\bruh\bruh\bruh\bin\Debug\bruh.exe
+C:\Users\admin\Documents\bruh\bruh\bruh\bin\Debug\bruh.pdb
+C:\Users\admin\Documents\bruh\bruh\bruh\obj\Debug\bruh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\bruh\bruh\bruh\obj\Debug\bruh.exe
+C:\Users\admin\Documents\bruh\bruh\bruh\obj\Debug\bruh.pdb
+C:\Users\admin\Documents\bruh\bruh\bruh\obj\Debug\bruh.csproj.AssemblyReference.cache

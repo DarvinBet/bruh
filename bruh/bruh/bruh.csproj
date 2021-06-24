@@ -43,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Direction.cs" />
+    <Compile Include="FoodBruh.cs" />
+    <Compile Include="idk.cs" />
+    <Compile Include="linessssssssssssssssssss.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="snek.cs" />
+    <Compile Include="Uh.cs" />
+    <Compile Include="vLines.cs" />
+    <Compile Include="wals.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
